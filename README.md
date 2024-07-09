@@ -37,6 +37,9 @@ Navigate through the website using the links in the navigation bar or by scrolli
 Explore different sections to learn about Netflix features and offerings.
 Expand FAQ boxes to view answers to common questions.
 Click on footer links to access additional pages and resources.
+# Screenshot 
+<img width="959" alt="netflix-Screenshot" src="https://github.com/harshsharmaa25/Netflix_Clone/assets/162073658/f63f7149-1f41-4113-b79b-2ea996609228">
+
 
 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests with your enhancements.
